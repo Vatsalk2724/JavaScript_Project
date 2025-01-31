@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width:50%;
+    height: 50%;
+    margin: 100px auto;
+    justify-content: center;
+    align-items: center;
+    border:1px solid black;
+}
+
+.Input1{
+    padding:10px;
+    margin:5px;
+    border-radius:8px;
+}
+
+#btn{
+    padding:10px ;
+    border-radius:4px;
+    background-color: #344CB7;
+    color: white;
+    font-size:15px;
+    border-radius:7px;
+    cursor:pointer ;
+
+}
+
+#btn:hover{
+    padding:10px ;
+    border-radius:4px;
+    background-color:white;
+    color:#344CB7;
+    font-size:15px;
+    border-radius:7px;
+    cursor:pointer ;
+
+}
