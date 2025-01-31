@@ -1,0 +1,1 @@
+let net_salary=Gross_salary-Deduction;

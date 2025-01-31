@@ -1,0 +1,31 @@
+.container{
+    background-color: #4635B1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px auto;
+    width:500px ;
+    height:250px;
+    border-radius: 10px;
+}
+
+#grade{
+    border-radius:7px ;
+    padding:10px;
+}
+
+#check{
+    border-radius: 20px;
+    padding:7px;
+    margin-top:4px ;
+    background-color: #B771E5;
+    color:red;
+
+}
+
+#check:hover{
+    background-color:yellow;
+    color:orangered;
+
+}
