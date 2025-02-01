@@ -1,0 +1,58 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin: 100px auto;
+    width: 20vw;
+    height:50vh;
+    border:1px solid black;
+    padding:15px;
+    border-radius:12px;
+    background-color:rgb(245, 126, 47);
+    
+}
+
+#Number{
+    padding:10px; 
+}
+
+
+
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top:10px;
+    gap:10px;
+    padding:10px;
+
+}
+
+#MAX{
+    background-color: rgb(38, 38, 171);
+    color: rgb(150, 173, 230);
+    padding:5px 4px 5px 4px ;
+    border-radius: 10px;
+}
+
+#MIN{
+    background-color: rgb(38, 38, 171);
+    color: rgb(150, 173, 230);
+    padding:5px 4px 5px 4px ;
+    border-radius: 10px;
+}
+
+#MAX:hover{
+    background-color:  white;
+    color: rgb(38, 38, 171);
+    padding:5px 4px 5px 4px ;
+    border-radius: 10px;
+}
+
+#MIN:hover{
+    background-color:  white;
+    color: rgb(38, 38, 171);
+    padding:5px 4px 5px 4px ;
+    border-radius: 10px;
+}
+
